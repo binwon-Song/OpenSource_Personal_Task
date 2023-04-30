@@ -11,6 +11,6 @@ tools:context=".MainActivity">
     android:id="@+id/btnNewActivity"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:text="새 화면 열기" />
+    android:text=" 2019038036 송빈원 새 화면 열기" />
 
 </androidx.appcompat.widget.LinearLayoutCompat>
